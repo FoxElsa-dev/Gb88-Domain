@@ -5,7 +5,7 @@
         "name": "GameCao",
         "displayName": "GameCao",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.us/files/AssetBundles/GameCao/WebGL/config.json"
+        "url": "https://play.gb88.club/files/AssetBundles/GameCao/WebGL/config.json"
     },
     {
         "version": "1.016",
@@ -13,11 +13,11 @@
         "name": "GameCatte",
         "displayName": "GameCatte",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.us/files/AssetBundles/GameCatte/WebGL/config.json"
+        "url": "https://play.gb88.club/files/AssetBundles/GameCatte/WebGL/config.json"
     },
     {
-        "version": "1.004",
-        "sumSize": 5931230,
+        "version": "1.009",
+        "sumSize": 5933428,
         "name": "LiveBaccarat",
         "displayName": "LiveBaccarat",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
@@ -29,7 +29,7 @@
         "name": "LiveBauCua",
         "displayName": "LiveBauCua",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.us/files/AssetBundles/LiveBauCua/WebGL/config.json"
+        "url": "https://play.gb88.club/files/AssetBundles/LiveBauCua/WebGL/config.json"
     },
     {
         "version": "1.004",
@@ -37,7 +37,7 @@
         "name": "LiveLongHo",
         "displayName": "LiveLongHo",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.us/files/AssetBundles/LiveLongHo/WebGL/config.json"
+        "url": "https://play.gb88.club/files/AssetBundles/LiveLongHo/WebGL/config.json"
     },
     {
         "version": "1.005",
@@ -45,7 +45,7 @@
         "name": "LiveTaiXiu",
         "displayName": "LiveTaiXiu",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.us/files/AssetBundles/LiveTaiXiu/WebGL/config.json"
+        "url": "https://play.gb88.club/files/AssetBundles/LiveTaiXiu/WebGL/config.json"
     },
     {
         "version": "1.004",
@@ -53,7 +53,7 @@
         "name": "LiveXocDia",
         "displayName": "LiveXocDia",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.us/files/AssetBundles/LiveXocDia/WebGL/config.json"
+        "url": "https://play.gb88.club/files/AssetBundles/LiveXocDia/WebGL/config.json"
     },
     {
         "version": "1.004",
@@ -61,7 +61,7 @@
         "name": "LiveXocDiaJP",
         "displayName": "LiveXocDiaJP",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.us/files/AssetBundles/LiveXocDiaJP/WebGL/config.json"
+        "url": "https://play.gb88.club/files/AssetBundles/LiveXocDiaJP/WebGL/config.json"
     },
     {
         "version": "1.045",
@@ -77,7 +77,7 @@
         "name": "SlotOngDo",
         "displayName": "SlotOngDo",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.us/files/AssetBundles/SlotOngDo/WebGL/config.json"
+        "url": "https://play.gb88.club/files/AssetBundles/SlotOngDo/WebGL/config.json"
     },
     {
         "version": "1.019",
@@ -85,7 +85,7 @@
         "name": "SlotThanTai",
         "displayName": "SlotThanTai",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.us/files/AssetBundles/SlotThanTai/WebGL/config.json"
+        "url": "https://play.gb88.club/files/AssetBundles/SlotThanTai/WebGL/config.json"
     },
     {
         "version": "1.016",
@@ -93,6 +93,6 @@
         "name": "SlotThuyCung",
         "displayName": "SlotThuyCung",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.us/files/AssetBundles/SlotThuyCung/WebGL/config.json"
+        "url": "https://play.gb88.club/files/AssetBundles/SlotThuyCung/WebGL/config.json"
     }
 ]
