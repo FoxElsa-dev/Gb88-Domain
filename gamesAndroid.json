@@ -64,8 +64,8 @@
         "url": "https://play.gb88.us/files/AssetBundles/LiveXocDiaJP/Android/config.json"
     },
     {
-        "version": "1.045",
-        "sumSize": 35564321,
+        "version": "1.046",
+        "sumSize": 36212288,
         "name": "Lobby",
         "displayName": "Lobby",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
@@ -96,8 +96,8 @@
         "url": "https://play.gb88.us/files/AssetBundles/Sport88/Android/config.json"
     },
     {
-        "version": "1.008",
-        "sumSize": 12004551,
+        "version": "1.009",
+        "sumSize": 12004534,
         "name": "UnlockApp",
         "displayName": "UnlockApp",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
