@@ -1,0 +1,10 @@
+[
+    {
+        "version": "1.045",
+        "sumSize": 37091559,
+        "name": "Lobby",
+        "displayName": "Lobby",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "StreamingAssets/AssetBundles/Lobby/WebGL/config.json"
+    }
+]
