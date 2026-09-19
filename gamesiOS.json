@@ -1,0 +1,82 @@
+[
+    {
+        "version": "1.014",
+        "sumSize": 3933551,
+        "name": "GameCao",
+        "displayName": "GameCao",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.club/files/AssetBundles/GameCao/iOS/config.json"
+    },
+    {
+        "version": "1.016",
+        "sumSize": 7083187,
+        "name": "GameCatte",
+        "displayName": "GameCatte",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.club/files/AssetBundles/GameCatte/iOS/config.json"
+    },
+    {
+        "version": "1.010",
+        "sumSize": 4553542,
+        "name": "LiveBaccarat",
+        "displayName": "LiveBaccarat",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.club/files/AssetBundles/LiveBaccarat/iOS/config.json"
+    },
+    {
+        "version": "1.005",
+        "sumSize": 4383424,
+        "name": "LiveBauCua",
+        "displayName": "LiveBauCua",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.club/files/AssetBundles/LiveBauCua/iOS/config.json"
+    },
+    {
+        "version": "1.036",
+        "sumSize": 4061497,
+        "name": "LiveLongHo",
+        "displayName": "LiveLongHo",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.club/files/AssetBundles/LiveLongHo/iOS/config.json"
+    },
+    {
+        "version": "1.009",
+        "sumSize": 10125230,
+        "name": "LiveXocDia",
+        "displayName": "LiveXocDia",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.club/files/AssetBundles/LiveXocDia/iOS/config.json"
+    },
+    {
+        "version": "1.008",
+        "sumSize": 4178649,
+        "name": "LiveXocDiaJP",
+        "displayName": "LiveXocDiaJP",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.club/files/AssetBundles/LiveXocDiaJP/iOS/config.json"
+    },
+    {
+        "version": "1.042",
+        "sumSize": 40445359,
+        "name": "Lobby",
+        "displayName": "Lobby",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.club/files/AssetBundles/Lobby/iOS/config.json"
+    },
+    {
+        "version": "1.016",
+        "sumSize": 13513520,
+        "name": "SlotThanTai",
+        "displayName": "SlotThanTai",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.club/files/AssetBundles/SlotThanTai/iOS/config.json"
+    },
+    {
+        "version": "1.013",
+        "sumSize": 14900594,
+        "name": "SlotThuyCung",
+        "displayName": "SlotThuyCung",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.club/files/AssetBundles/SlotThuyCung/iOS/config.json"
+    }
+]
