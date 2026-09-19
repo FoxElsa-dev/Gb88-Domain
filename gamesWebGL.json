@@ -1,22 +1,22 @@
 [
     {
-        "version": "1.014",
-        "sumSize": 3606610,
+        "version": "1.017",
+        "sumSize": 3651149,
         "name": "GameCao",
         "displayName": "GameCao",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.club/files/AssetBundles/GameCao/WebGL/config.json"
+        "url": "https://play.gb88.us/files/AssetBundles/GameCao/WebGL/config.json"
     },
     {
-        "version": "1.016",
-        "sumSize": 10483496,
+        "version": "1.019",
+        "sumSize": 10523868,
         "name": "GameCatte",
         "displayName": "GameCatte",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.club/files/AssetBundles/GameCatte/WebGL/config.json"
+        "url": "https://play.gb88.us/files/AssetBundles/GameCatte/WebGL/config.json"
     },
     {
-        "version": "1.009",
+        "version": "1.010",
         "sumSize": 5933428,
         "name": "LiveBaccarat",
         "displayName": "LiveBaccarat",
@@ -24,44 +24,44 @@
         "url": "https://play.gb88.us/files/AssetBundles/LiveBaccarat/WebGL/config.json"
     },
     {
-        "version": "1.004",
-        "sumSize": 5063696,
+        "version": "1.010",
+        "sumSize": 5065113,
         "name": "LiveBauCua",
         "displayName": "LiveBauCua",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.club/files/AssetBundles/LiveBauCua/WebGL/config.json"
+        "url": "https://play.gb88.us/files/AssetBundles/LiveBauCua/WebGL/config.json"
     },
     {
-        "version": "1.004",
-        "sumSize": 4996399,
+        "version": "1.010",
+        "sumSize": 4822440,
         "name": "LiveLongHo",
         "displayName": "LiveLongHo",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.club/files/AssetBundles/LiveLongHo/WebGL/config.json"
+        "url": "https://play.gb88.us/files/AssetBundles/LiveLongHo/WebGL/config.json"
     },
     {
-        "version": "1.005",
-        "sumSize": 7347022,
+        "version": "1.010",
+        "sumSize": 7347754,
         "name": "LiveTaiXiu",
         "displayName": "LiveTaiXiu",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.club/files/AssetBundles/LiveTaiXiu/WebGL/config.json"
+        "url": "https://play.gb88.us/files/AssetBundles/LiveTaiXiu/WebGL/config.json"
     },
     {
-        "version": "1.004",
-        "sumSize": 15238741,
+        "version": "1.010",
+        "sumSize": 15238724,
         "name": "LiveXocDia",
         "displayName": "LiveXocDia",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.club/files/AssetBundles/LiveXocDia/WebGL/config.json"
+        "url": "https://play.gb88.us/files/AssetBundles/LiveXocDia/WebGL/config.json"
     },
     {
-        "version": "1.004",
-        "sumSize": 7617494,
+        "version": "1.010",
+        "sumSize": 7616486,
         "name": "LiveXocDiaJP",
         "displayName": "LiveXocDiaJP",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.club/files/AssetBundles/LiveXocDiaJP/WebGL/config.json"
+        "url": "https://play.gb88.us/files/AssetBundles/LiveXocDiaJP/WebGL/config.json"
     },
     {
         "version": "1.045",
@@ -80,19 +80,27 @@
         "url": "https://play.gb88.club/files/AssetBundles/SlotOngDo/WebGL/config.json"
     },
     {
-        "version": "1.019",
-        "sumSize": 14988752,
+        "version": "1.021",
+        "sumSize": 14988832,
         "name": "SlotThanTai",
         "displayName": "SlotThanTai",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.club/files/AssetBundles/SlotThanTai/WebGL/config.json"
+        "url": "https://play.gb88.us/files/AssetBundles/SlotThanTai/WebGL/config.json"
     },
     {
-        "version": "1.016",
-        "sumSize": 15898198,
+        "version": "1.021",
+        "sumSize": 15898263,
         "name": "SlotThuyCung",
         "displayName": "SlotThuyCung",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
-        "url": "https://play.gb88.club/files/AssetBundles/SlotThuyCung/WebGL/config.json"
+        "url": "https://play.gb88.us/files/AssetBundles/SlotThuyCung/WebGL/config.json"
+    },
+    {
+        "version": "1.024",
+        "sumSize": 3067222,
+        "name": "Sport88",
+        "displayName": "Sport88",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.us/files/AssetBundles/Sport88/WebGL/config.json"
     }
 ]
