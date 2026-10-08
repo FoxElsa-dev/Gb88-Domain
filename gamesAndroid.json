@@ -64,8 +64,8 @@
         "url": "https://play.gb88.us/files/AssetBundles/LiveXocDiaJP/Android/config.json"
     },
     {
-        "version": "1.049",
-        "sumSize": 39556623,
+        "version": "1.050",
+        "sumSize": 39484855,
         "name": "Lobby",
         "displayName": "Lobby",
         "defaultBridge": "CSharpLike.HotUpdateClassBridge",
