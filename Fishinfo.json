@@ -3,7 +3,7 @@
         "ID": 0,
         "UID": "FISH_001",
         "eR": 100,
-        "moveSpeed": 0.16,
+        "moveSpeed": 0.8,
         "value": 9,
         "isBoss": false
     },
@@ -11,7 +11,7 @@
         "ID": 1,
         "UID": "FISH_002",
         "eR": 100,
-        "moveSpeed": 0.2,
+        "moveSpeed": 1,
         "value": 10,
         "isBoss": false
     },
@@ -19,7 +19,7 @@
         "ID": 2,
         "UID": "FISH_003",
         "eR": 100,
-        "moveSpeed": 0.13,
+        "moveSpeed": 0.65,
         "value": 10,
         "isBoss": false
     },
@@ -27,31 +27,31 @@
         "ID": 3,
         "UID": "FISH_004",
         "eR": 70,
-        "moveSpeed": 0.06,
+        "moveSpeed": 0.3,
         "value": 15,
         "isBoss": false
     },
     {
         "ID": 4,
         "UID": "FISH_005",
-        "eR": 100,
-        "moveSpeed": 0.1,
-        "value": 20,
+        "eR": 800,
+        "moveSpeed": 0.5,
+        "value": 1,
         "isBoss": false
     },
     {
         "ID": 5,
         "UID": "FISH_006",
-        "eR": 1000,
-        "moveSpeed": 0.09,
-        "value": 1,
+        "eR": 100,
+        "moveSpeed": 0.45,
+        "value": 20,
         "isBoss": false
     },
     {
         "ID": 6,
         "UID": "FISH_007",
         "eR": 250,
-        "moveSpeed": 0.07,
+        "moveSpeed": 0.35,
         "value": 2,
         "isBoss": false
     },
@@ -59,7 +59,7 @@
         "ID": 7,
         "UID": "FISH_008",
         "eR": 150,
-        "moveSpeed": 0.12,
+        "moveSpeed": 0.62,
         "value": 4,
         "isBoss": false
     },
@@ -67,7 +67,7 @@
         "ID": 8,
         "UID": "FISH_009",
         "eR": 250,
-        "moveSpeed": 0.2,
+        "moveSpeed": 1,
         "value": 2,
         "isBoss": false
     },
@@ -75,7 +75,7 @@
         "ID": 9,
         "UID": "FISH_010",
         "eR": 130,
-        "moveSpeed": 0.19,
+        "moveSpeed": 0.9,
         "value": 5,
         "isBoss": false
     },
@@ -83,7 +83,7 @@
         "ID": 10,
         "UID": "FISH_011",
         "eR": 150,
-        "moveSpeed": 0.13,
+        "moveSpeed": 0.7,
         "value": 4,
         "isBoss": false
     },
@@ -91,7 +91,7 @@
         "ID": 11,
         "UID": "FISH_012",
         "eR": 100,
-        "moveSpeed": 0.08,
+        "moveSpeed": 0.5,
         "value": 6,
         "isBoss": false
     },
@@ -99,7 +99,7 @@
         "ID": 12,
         "UID": "FISH_013",
         "eR": 60,
-        "moveSpeed": 0.12,
+        "moveSpeed": 0.7,
         "value": 15,
         "isBoss": false
     },
@@ -107,7 +107,7 @@
         "ID": 13,
         "UID": "FISH_014",
         "eR": 65,
-        "moveSpeed": 0.14,
+        "moveSpeed": 0.8,
         "value": 10,
         "isBoss": false
     },
@@ -115,7 +115,7 @@
         "ID": 14,
         "UID": "FISH_015",
         "eR": 70,
-        "moveSpeed": 0.09,
+        "moveSpeed": 0.55,
         "value": 20,
         "isBoss": false
     },
@@ -123,7 +123,7 @@
         "ID": 15,
         "UID": "FISH_016",
         "eR": 210,
-        "moveSpeed": 0.15,
+        "moveSpeed": 0.75,
         "value": 3,
         "isBoss": false
     },
@@ -131,7 +131,7 @@
         "ID": 16,
         "UID": "FISH_017",
         "eR": 8,
-        "moveSpeed": 0.16,
+        "moveSpeed": 0.92,
         "value": 60,
         "isBoss": false
     },
@@ -147,7 +147,7 @@
         "ID": 18,
         "UID": "FISH_019",
         "eR": 70,
-        "moveSpeed": 0.13,
+        "moveSpeed": 0.82,
         "value": 10,
         "isBoss": false
     },
@@ -155,7 +155,7 @@
         "ID": 19,
         "UID": "FISH_020",
         "eR": 50,
-        "moveSpeed": 0.05,
+        "moveSpeed": 0.48,
         "value": 25,
         "isBoss": false
     },
