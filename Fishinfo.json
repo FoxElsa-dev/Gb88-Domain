@@ -115,7 +115,7 @@
         "ID": 14,
         "UID": "FISH_015",
         "eR": 70,
-        "moveSpeed": 0.55,
+        "moveSpeed": 0.25,
         "value": 20,
         "isBoss": false
     },
@@ -155,7 +155,7 @@
         "ID": 19,
         "UID": "FISH_020",
         "eR": 50,
-        "moveSpeed": 0.48,
+        "moveSpeed": 0.33,
         "value": 25,
         "isBoss": false
     },
