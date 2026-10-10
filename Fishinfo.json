@@ -3,7 +3,7 @@
         "ID": 0,
         "UID": "FISH_001",
         "eR": 100,
-        "moveSpeed": 0.8,
+        "moveSpeed": 0.6,
         "value": 9,
         "isBoss": false
     },
@@ -75,7 +75,7 @@
         "ID": 9,
         "UID": "FISH_010",
         "eR": 130,
-        "moveSpeed": 0.9,
+        "moveSpeed": 0.2,
         "value": 5,
         "isBoss": false
     },
@@ -83,7 +83,7 @@
         "ID": 10,
         "UID": "FISH_011",
         "eR": 150,
-        "moveSpeed": 0.7,
+        "moveSpeed": 0.55,
         "value": 4,
         "isBoss": false
     },
