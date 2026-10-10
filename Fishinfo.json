@@ -163,7 +163,7 @@
         "ID": 20,
         "UID": "FISH_021",
         "eR": 2,
-        "moveSpeed": 0.1,
+        "moveSpeed": 0.15,
         "value": 1500,
         "isBoss": true
     },
@@ -171,7 +171,7 @@
         "ID": 21,
         "UID": "FISH_022",
         "eR": 2,
-        "moveSpeed": 0.1,
+        "moveSpeed": 0.15,
         "value": 2500,
         "isBoss": true
     },
@@ -179,7 +179,7 @@
         "ID": 22,
         "UID": "FISH_023",
         "eR": 2,
-        "moveSpeed": 0.1,
+        "moveSpeed": 0.15,
         "value": 5000,
         "isBoss": true
     }
