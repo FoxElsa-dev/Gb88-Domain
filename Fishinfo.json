@@ -34,9 +34,9 @@
     {
         "ID": 4,
         "UID": "FISH_005",
-        "eR": 800,
+        "eR": 300,
         "moveSpeed": 0.5,
-        "value": 1,
+        "value": 2,
         "isBoss": false
     },
     {
