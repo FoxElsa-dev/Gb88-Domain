@@ -8,6 +8,14 @@
         "url": "https://play.gb88.us/files/AssetBundles/GameCao/WebGL/config.json"
     },
     {
+        "version": "1.001",
+        "sumSize": 20537843,
+        "name": "BanCa",
+        "displayName": "BanCa",
+        "defaultBridge": "CSharpLike.HotUpdateClassBridge",
+        "url": "https://play.gb88.us/files/AssetBundles/BanCa/WebGL/config.json"
+    },
+    {
         "version": "1.019",
         "sumSize": 10523868,
         "name": "GameCatte",
